@@ -57,6 +57,7 @@ describe('Crash test', function() {
       res.on('end', () => {
         debug('[beforeAll] request end');
         console.log(postResponseData);
+        service.stopServer();
         done();
       });
     });
