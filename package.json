@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "rm -rf test/output/* ; mocha"
+    "test": "rm -rf test/output/* ; mocha --trace-deprecation"
   },
   "author": "",
   "license": "ISC",

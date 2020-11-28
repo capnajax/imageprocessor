@@ -1,0 +1,8 @@
+{"status":"STARTING","timestamp":1606540541649,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)"}
+{"status":"START_COMMAND","timestamp":1606540541670,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)","commandId":"7OPw5e","command":{"specname":"640p","filename":"result1-1.jpeg","width":480,"height":640,"transform":{}}}
+{"status":"START_COMMAND","timestamp":1606540541671,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)","commandId":"8LaGsY","command":{"specname":"160p","filename":"result1-2.jpeg","width":120,"height":160,"transform":{}}}
+{"status":"RESIZE_COMPLETE","timestamp":1606540541746,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)","commandId":"8LaGsY"}
+{"status":"WROTE_FILE","timestamp":1606540541747,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)","commandId":"8LaGsY","filename":"result1-2.jpeg"}
+{"status":"RESIZE_COMPLETE","timestamp":1606540541767,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)","commandId":"7OPw5e"}
+{"status":"WROTE_FILE","timestamp":1606540541769,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)","commandId":"7OPw5e","filename":"result1-1.jpeg"}
+{"status":"OPERATION_COMPLETE","timestamp":1606540541769,"isoTime":"Fri Nov 27 2020 23:15:41 GMT-0600 (Central Standard Time)"}
